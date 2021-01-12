@@ -2,11 +2,11 @@
     Digital Innovation One - JavaScript
 </h1>
 
-<h2 align="center">
+<h2 style="text-align:center;">
 <img src="https://i.imgur.com/ZYTyJCG.jpg" height="250px" width="600px>
-</h2>
+</h2>   
 
-<br><h2 align="center">
+<br><h2 style="text-align:center;">
     <a href="https://www.facebook.com/digitalinnovationone" target="_blank"><img class="link" src="https://i.imgur.com/s9wDAAI.png?1"></a> <a href="https://www.youtube.com/results?search_query=digital+innovation+one" target="_blank"><img class="link" src="https://i.imgur.com/zG40AZC.png?1"></a> <a href="https://twitter.com/dio4tech" target="_blank"><img class="link" src="https://i.imgur.com/0Xfla8g.png?1"></a> <a href="https://web.digitalinnovation.one/" target="_blank"><img class="link" src="https://i.imgur.com/skUash9.png?1"></a>
 </h2>
 
