@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>JavaScript</title>
+        <script type="text/javascript" src="js/main.js"></script>
+    </head>
+    <body onload="carregamento()">
+
+        <h1>Comandos básicos em Javascript</h1>
+        <h3>Para acompanhamento da página, siga os passos a seguir:</h3>
+        <p>1. Clique na página com o botão direito do mouse</p>
+        <p>2. Selecione a opção: INSPECIONAR</p>
+        <p>3. Selecione a opção: CONSOLE</p>
+        <button type="button" onclick="botao()"> Clique aqui</button>
+        <p id="agradecimento" onclick="redirecionar()"></p>
+        <p id="trocar" onmouseover="trocar()" onmouseout="voltar()">Passe o mouse aqui</p>
+
+        <select onchange="funcaoChange(this)">
+            <option value="1">Valor 1</option>
+            <option value="2">Valor 2</option>
+            <option value="3">Valor 3</option>
+        </select>
+    </body>
+</html>
