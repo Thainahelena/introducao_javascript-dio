@@ -20,7 +20,7 @@
 
 Repositório dedicado a resoluções de todos os exercícios propostos no curso de Introdução ao JavaScript, matéria introdutória do **BootCamp GFT START_UNI #1 da Digital Innovation One**, ministrada pelo Professor e Front-End Engineer Lucas Vilaboim, em janeiro de 2021.
 
-Para ter acesso a este conteúdo, acesse a [DIO](https://web.digitalinnovation.one/)                                  
+Para ter acesso a este conteúdo, acesse a [**DIO**](https://web.digitalinnovation.one/)                                  
 
 ## 🚀 Tecnologias
 
@@ -34,7 +34,7 @@ O projeto foi desenvolvido a partir das tecnologias:
 
 *Dedicated repository to solving all the exercises proposed in JavaScript Introduction, introductory subject of **Digital Innovation One's BootCamp, GFT START_UNI #1**, taught by Professor and Front-End Engineer Lucas Vilaboim, in january 2021.*
 
-*To access this content, visit [DIO](https://web.digitalinnovation.one/) *                                  
+*To access this content, visit [**DIO**](https://web.digitalinnovation.one/)*                                  
 
 
 ## 🚀 Technologies Used:
